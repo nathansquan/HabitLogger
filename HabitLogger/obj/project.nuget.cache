@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "u6wvHLEV72QoQrM6PDcVUt4Y5NAvqQXFRAlLYkkLALvyeaNqsWc00H+WkHQIUN7mHG3THA/iG86KpGOrLoaH1w==",
+  "dgSpecHash": "yq5+YlXesoDHKx3rudEMqTIBjm5LbZXvSrU8xWAVs046OXdu0snFqVw5SYVxie9fQJuLQ45LxohaxO0JhJ7keQ==",
   "success": true,
   "projectFilePath": "/home/nathanquan/repos/c-sharp-academy/console-apps/beginner/HabitLogger/HabitLogger/HabitLogger.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/nathanquan/.nuget/packages/microsoft.data.sqlite/7.0.9/microsoft.data.sqlite.7.0.9.nupkg.sha512",
+    "/home/nathanquan/.nuget/packages/microsoft.data.sqlite.core/7.0.9/microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
+    "/home/nathanquan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/nathanquan/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/nathanquan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/nathanquan/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/nathanquan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
